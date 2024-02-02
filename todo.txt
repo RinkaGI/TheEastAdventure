@@ -1,0 +1,1 @@
+just start a 3d mode with a camera and a simple cube, nothing more
